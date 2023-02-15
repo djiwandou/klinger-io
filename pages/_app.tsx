@@ -112,7 +112,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           <nav className="flex justify-between">
             <Link href="/">
               <a className="prevent-default max-w-[45%] p-3 -m-3 text-base sm:text-lg lg:text-xl text-gray-800 hover:text-gray-900 dark:text-gray-200 dark:hover:text-gray-100 font-semibold transition-colors whitespace-nowrap overflow-hidden text-ellipsis">
-                Andreas Klinger
+                Djiwandou
               </a>
             </Link>
 
