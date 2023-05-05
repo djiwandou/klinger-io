@@ -68,7 +68,7 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
       <p>
         Sekarang saya mendapat amanah untuk memimpin sebuah tim engineering di {' '}
         <a
-          href="https://www.remotefirstcapital.com"
+          href="https://sirka.io"
           target="_blank"
           rel="noreferrer"
         >
