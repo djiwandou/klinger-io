@@ -142,11 +142,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         </main>
 
         <footer className="md:flex md:justify-between text-gray-500 space-y-2 md:space-y-0 px-4 pb-6 md:px-5 md:pb-4 lg:px-10 lg:pb-5">
-          <div>&copy; Copyright {new Date().getFullYear()} Andreas Klinger</div>
+          <div>&copy; Copyright {new Date().getFullYear()} Djiwandou</div>
           <div className="text-sm md:text-base leading-loose">
             <a
               className="prevent-default space-x-1"
-              href="https://github.com/andreasklinger/klinger-io"
+              href="https://github.com/djiwandou/klinger-io"
               target="_blank"
               rel="noreferrer"
             >
