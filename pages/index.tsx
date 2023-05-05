@@ -63,20 +63,7 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
 
       <p className="mt-6 md:mt-8 lg:mt-10">My name is Djiwandou, You can call me Dji.</p>
       <p>
-        Saya adalah seorang software engineer (dari dulu sampai sekarang & semoga berlanjut sampai kapanpun) &amp; CTO of{' '}
-        <a href="https://www.producthunt.com" target="_blank" rel="noreferrer">
-          Product Hunt
-        </a>
-        , VPE of{' '}
-        <a href="https://www.coinlist.co" target="_blank" rel="noreferrer">
-          CoinList
-        </a>
-        , Head of Remote at{' '}
-        <a href="https://www.angellist.com" target="_blank" rel="noreferrer">
-          AngelList
-        </a>
-        , and CTO at{' '}
-        <a href="https://www.beondeck.com">On Deck</a>.
+        Saya adalah seorang software engineer (dari dulu sampai sekarang & semoga berlanjut sampai kapanpun)
       </p>
       <p>
         Sekarang saya mendapat amanah untuk memimpin sebuah tim engineering di {' '}
