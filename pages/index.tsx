@@ -48,13 +48,13 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
     <>
       <Head
         title="Djiwandou"
-        description="I am a product/eng-guy good in two things: Making people believe I am good in anything at all and making stuff worth a tweet. On this website I share notes &amp; thoughts."
+        description="I always be a software engineer from then until now. On this website I share notes &amp; thoughts."
       />
 
       <div className="flex items-center space-x-4 md:space-x-5 lg:space-x-6">
         <Image
           className="prevent-default w-8 md:w-10 lg:w-12 h-8 md:h-10 lg:h-12 rounded-full"
-          src="/images/andreas-klinger.jpg"
+          src="/images/djiwandou.jpg"
           alt="Djiwandou"
           sizes="(max-width: 768px) 32px, (max-width: 1024px) 40px, 48px"
         />
@@ -63,7 +63,7 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
 
       <p className="mt-6 md:mt-8 lg:mt-10">My name is Djiwandou, You can call me Dji.</p>
       <p>
-        I was founding team &amp; CTO of{' '}
+        Saya adalah seorang software engineer (dari dulu sampai sekarang & semoga berlanjut sampai kapanpun) &amp; CTO of{' '}
         <a href="https://www.producthunt.com" target="_blank" rel="noreferrer">
           Product Hunt
         </a>
@@ -79,27 +79,27 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
         <a href="https://www.beondeck.com">On Deck</a>.
       </p>
       <p>
-        I also angel invest via{' '}
+        Sekarang saya mendapat amanah untuk memimpin sebuah tim engineering di {' '}
         <a
           href="https://www.remotefirstcapital.com"
           target="_blank"
           rel="noreferrer"
         >
-          Remote First Capital
+          Sirka
         </a>
         .
       </p>
 
       <p>
-        I was lucky to learn from{' '}
+        Alhamdulillah saya berkesempatan belajar{' '}
         <Link href="/posts/🙏">
-          <a>a lot of people</a>
+          <a>dengan banyak orang</a>
         </Link>{' '}
-        throughout my career.
+        sepanjang perjalanan hidup dan karir saya
         <br />
-        On this page I try to{' '}
+        Pada mini-blog ini, saya berusaha untuk merangkum{' '}
         <Link href="/posts/">
-          <a>summarize some learnings</a>
+          <a>beberapa pelajaran penting dan menarik yang saya alami, semoga bermanfaat</a>
         </Link>
         .
       </p>
