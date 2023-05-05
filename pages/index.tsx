@@ -54,7 +54,7 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
       <div className="flex items-center space-x-4 md:space-x-5 lg:space-x-6">
         <Image
           className="prevent-default w-8 md:w-10 lg:w-12 h-8 md:h-10 lg:h-12 rounded-full"
-          src="/images/djiwandou.jpg"
+          src="/images/djiwandou.png"
           alt="Djiwandou"
           sizes="(max-width: 768px) 32px, (max-width: 1024px) 40px, 48px"
         />
