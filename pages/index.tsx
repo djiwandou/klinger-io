@@ -63,7 +63,7 @@ const HomePage: NextPage<HomePageProps> = ({ posts }) => {
 
       <p className="mt-6 md:mt-8 lg:mt-10">My name is Djiwandou, You can call me Dji.</p>
       <p>
-        Saya adalah seorang software engineer (dari dulu sampai sekarang & semoga berlanjut sampai kapanpun)
+        Saya adalah seorang software engineer (dari dulu sampai sekarang & semoga berlanjut sampai kapanpun), aamiin
       </p>
       <p>
         Sekarang saya mendapat amanah untuk memimpin sebuah tim engineering di {' '}
